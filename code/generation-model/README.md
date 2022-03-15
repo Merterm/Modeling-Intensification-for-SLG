@@ -44,6 +44,6 @@ Make sure you have the corresponding data.
 you only need to modify the data:data_path in the YAML file.
 
 ## Test
-`python -m signjoey test configs/YOUR_MODIFIED_YAML --ckpt best_carla.ckpt --output_path output/MODEL_NAME`
+`python -m signjoey test configs/YOUR_MODIFIED_YAML --ckpt your.ckpt --output_path output/MODEL_NAME`
 
 
