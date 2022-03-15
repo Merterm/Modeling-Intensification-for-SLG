@@ -30,6 +30,8 @@ Then `python training.py`
 
 `python write_file_slt.py --cur_path Data/MODEL_SKELETON_NAME`
 
+### Model checkpoints 
+You can find the model checkpoints in [this link.](https://drive.google.com/drive/folders/10fsw-xSt2Rmupx31FYhxPcfSfiFL5Djf?usp=sharing)
 
 # SLT
 
